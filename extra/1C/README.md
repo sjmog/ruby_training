@@ -35,7 +35,7 @@ Then
 - [What does `require` do?]()
 - [Why do error messages have SO MANY LINES!?]()
 
-### Adding with nothing
+### Multiplying with nothing gives zero
 
 Once I have started the program, I can write:
 
@@ -53,7 +53,7 @@ And I see:
 
 - [Writing Ruby functions]()
 
-### Adding a numeral number
+### Multiplying a single numeral number gives zero
 
 Once I have started the program, I can write:
 
@@ -72,7 +72,7 @@ And I see:
 - [Writing Ruby functions with parameters]()
 - [Making parameters optional]()
 
-### Adding two numeral numbers
+### Multiplying two numeral numbers gives their product
 
 Once I have started the program, I can write:
 
@@ -86,7 +86,7 @@ And I see:
 6
 ```
 
-### Adding two numeral or non-numeral numbers
+### Multiplying two numeral or non-numeral numbers gives their product
 
 Once I have started the program, I can write:
 

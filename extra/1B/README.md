@@ -53,7 +53,7 @@ And I see:
 
 - [Writing Ruby functions]()
 
-### Adding a numeral number
+### Subtracting a single numeral number takes it from zero
 
 Once I have started the program, I can write:
 
@@ -72,7 +72,7 @@ And I see:
 - [Writing Ruby functions with parameters]()
 - [Making parameters optional]()
 
-### Adding two numeral numbers
+### Subtracting two numeral numbers takes the first from the second
 
 Once I have started the program, I can write:
 
@@ -86,7 +86,7 @@ And I see:
 1
 ```
 
-### Adding two numeral or non-numeral numbers
+### Subtracting two numeral or non-numeral numbers takes the first from the second
 
 Once I have started the program, I can write:
 
