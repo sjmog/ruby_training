@@ -1,8 +1,3 @@
-def add
-	0
-end
-
-def add(num)
+def add(num=0)
 num
 end
-
