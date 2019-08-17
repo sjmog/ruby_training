@@ -1,4 +1,4 @@
-# Calculator B
+# Calculator D
 
 Make a simple calculator, again!
 
@@ -40,7 +40,7 @@ Then
 Once I have started the program, I can write:
 
 ```
-subtract
+divide
 ```
 
 And I see:
@@ -53,18 +53,18 @@ And I see:
 
 - [Writing Ruby functions]()
 
-### Subtracting a single numeral number takes it from zero
+### Dividing a numeral number
 
 Once I have started the program, I can write:
 
 ```
-subtract(2)
+divide(2)
 ```
 
 And I see:
 
 ```
--2
+0
 ```
 
 ##### Useful links
@@ -72,32 +72,32 @@ And I see:
 - [Writing Ruby functions with parameters]()
 - [Making parameters optional]()
 
-### Subtracting two numeral numbers takes the first from the second
+### Dividing two numeral numbers
 
 Once I have started the program, I can write:
 
 ```
-subtract(2, 3)
+divide(4, 2)
 ```
 
 And I see:
 
 ```
-1
+2
 ```
 
-### Subtracting two numeral or non-numeral numbers takes the first from the second
+### Dividing two numeral or non-numeral numbers
 
 Once I have started the program, I can write:
 
 ```
-subtract(TWO, THREE)
+divide(FOUR, TWO)
 ```
 
 And I see: 
 
 ```
-1
+2
 ```
 
 ##### Useful links

@@ -1,4 +1,4 @@
-# Calculator B
+# Calculator C
 
 Make a simple calculator, again!
 
@@ -35,12 +35,12 @@ Then
 - [What does `require` do?]()
 - [Why do error messages have SO MANY LINES!?]()
 
-### Adding with nothing
+### Multiplying with nothing gives zero
 
 Once I have started the program, I can write:
 
 ```
-subtract
+multiply
 ```
 
 And I see:
@@ -53,18 +53,18 @@ And I see:
 
 - [Writing Ruby functions]()
 
-### Subtracting a single numeral number takes it from zero
+### Multiplying a single numeral number gives zero
 
 Once I have started the program, I can write:
 
 ```
-subtract(2)
+multiply(2)
 ```
 
 And I see:
 
 ```
--2
+0
 ```
 
 ##### Useful links
@@ -72,32 +72,32 @@ And I see:
 - [Writing Ruby functions with parameters]()
 - [Making parameters optional]()
 
-### Subtracting two numeral numbers takes the first from the second
+### Multiplying two numeral numbers gives their product
 
 Once I have started the program, I can write:
 
 ```
-subtract(2, 3)
+multiply(2, 3)
 ```
 
 And I see:
 
 ```
-1
+6
 ```
 
-### Subtracting two numeral or non-numeral numbers takes the first from the second
+### Multiplying two numeral or non-numeral numbers gives their product
 
 Once I have started the program, I can write:
 
 ```
-subtract(TWO, THREE)
+multiply(TWO, THREE)
 ```
 
 And I see: 
 
 ```
-1
+6
 ```
 
 ##### Useful links
