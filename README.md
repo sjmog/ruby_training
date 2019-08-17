@@ -13,3 +13,10 @@ It's easy to get stuck in a rabbit hole when learning to program, and every arti
 ### Exercises
 
 1. [Calculator](./1) will train you in irb, variables, functions, and constants.
+2. [Greeter](./2) will train you in I/O, and String methods.
+
+### Extra practice
+
+1. [Calculator B](./extra/1B) will give you practice at the topics covered in [Calculator](./1).
+2. [Calculator C](./extra/1C) will give you practice at the topics covered in [Calculator](./1).
+3. [Calculator D](./extra/1D) will give you practice at the topics covered in [Calculator](./1).

@@ -1,0 +1,29 @@
+#!/usr/bin/env ruby
+print "\nRunning tests...\n"
+
+def assert_equals(given, expected, test_name)
+  result = eval(given)
+
+  if result == expected
+    print "\e[32m#{test_name} passes!\e[0m\n"
+  else
+    print "\e[31m#{test_name} fails! Expected:#{expected}, got #{result}\e[0m\n"
+  end
+
+rescue LoadError => e
+  print "\e[31m#{test_name} fails! Expected:#{expected}, got #{e}\e[0m\n"
+rescue StandardError => e
+  print "\e[31m#{test_name} fails! Expected:#{expected}, got #{e}\e[0m\n"
+end
+
+tests = {
+  "1B.0" => ["require('./calculator')", true],
+  "1B.1" => ["subtract", 0],
+  "1B.2" => ["subtract(2)", -2],
+  "1B.3" => ["subtract(2, 3)", 1],
+  "1B.4" => ["subtract(TWO, THREE)", 1]
+}
+
+tests.each do |exercise, test|
+  assert_equals(test[0], test[1], exercise)
+end
