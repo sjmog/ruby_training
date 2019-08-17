@@ -5,7 +5,7 @@ Make a simple calculator.
 ### How to complete this exercise
 
 1. Make a new branch with your name. (From the command line, run `git checkout -b my-full-name`)
-2. In this directory, create a Ruby program file called `calculate.rb`.
+2. In this directory, create a Ruby program file called `calculator.rb`.
 3. To complete a requirement, add the code which completes the requirement to this file.
 3. Once you have saved the Ruby program file, commit your changes with git and push to this repo.
 4. You will get feedback on your solution via email.
