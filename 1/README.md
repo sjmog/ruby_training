@@ -25,6 +25,24 @@ Then
 - [What does `require` do?]()
 - [Reading error messages]()
 
+### Adding with nothing
+
+Once I have started the program, I can write:
+
+```
+add
+```
+
+And I see:
+
+```
+0
+```
+
+##### Useful links
+
+- [Writing Ruby functions]()
+
 ### Adding a numeral number
 
 Once I have started the program, I can write:
@@ -41,7 +59,7 @@ And I see:
 
 ##### Useful links
 
-- [Writing Ruby functions]()
+- [Writing Ruby functions with parameters]()
 
 ### Adding two numeral numbers
 
@@ -56,10 +74,6 @@ And I see:
 ```
 5
 ```
-
-##### Useful links
-
-- [Function parameters]()
 
 ### Adding two numeral or non-numeral numbers
 
