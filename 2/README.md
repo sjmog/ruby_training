@@ -12,7 +12,7 @@ Make a simple friend machine.
 
 ### Testing your progress
 
-At any time, you can run `./test` from the Terminal to run some tests against your code. The tests expect your program to live in the exact directory it is meant to!
+You have to run your program yourself to test it in this exercise.
 
 ### How to use Terminal programs
 
