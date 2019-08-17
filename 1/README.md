@@ -2,11 +2,17 @@
 
 Make a simple calculator.
 
-### Instructions for all exercises
+### How to complete this exercise
 
-Please complete each exercise by writing a `.rb` program and saving it to the exercise directory. For example, for this exercise, you should create a file called `calculate.rb`, write some Ruby code in it, and save it to this directory.
+1. Make a new branch with your name. (From the command line, run `git checkout -b my-full-name`)
+2. In this directory, create a Ruby program file called `calculate.rb`.
+3. To complete a requirement, add the code which completes the requirement to this file.
+3. Once you have saved the Ruby program file, commit your changes with git and push to this repo.
+4. You will get feedback on your solution via email.
 
-- This program runs in `irb`. IRB is an interactive Ruby environment. To start IRB, write `irb` in any terminal window.
+### How to use IRB
+
+This program should run in `irb`. IRB is an interactive Ruby environment. To start IRB, write `irb` in any terminal window.
 
 ## Requirements
 
