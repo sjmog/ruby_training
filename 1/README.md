@@ -29,7 +29,7 @@ Then
 ##### Useful links
 
 - [What does `require` do?]()
-- [Reading error messages]()
+- [Why do error messages have SO MANY LINES!?]()
 
 ### Adding with nothing
 
@@ -66,6 +66,7 @@ And I see:
 ##### Useful links
 
 - [Writing Ruby functions with parameters]()
+- [Making parameters optional]()
 
 ### Adding two numeral numbers
 
