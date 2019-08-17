@@ -20,7 +20,12 @@ Then
 
 `require "./calculator"`
 
-### Adding a numeral number (1)
+##### Useful links
+
+- [What does `require` do?]()
+- [Reading error messages]()
+
+### Adding a numeral number
 
 Once I have started the program, I can write:
 
@@ -34,7 +39,11 @@ And I see:
 2
 ```
 
-### Adding two numeral numbers (2)
+##### Useful links
+
+- [Writing Ruby functions]()
+
+### Adding two numeral numbers
 
 Once I have started the program, I can write:
 
@@ -47,3 +56,43 @@ And I see:
 ```
 5
 ```
+
+##### Useful links
+
+- [Function parameters]()
+
+### Adding two numeral or non-numeral numbers
+
+Once I have started the program, I can write:
+
+```
+add(TWO, THREE)
+```
+
+And I see: 
+
+```
+5
+```
+
+##### Useful links
+
+- [Ruby Constants]()
+
+### Adding any number of numeral or non-numeral numbers
+
+Once I have started the program, I can write:
+
+```
+add(TWO, 3, 2, THREE)
+```
+
+And I see;
+
+```
+10
+```
+
+##### Useful links
+
+- [Writing a function that takes any number of parameters]()
