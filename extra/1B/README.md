@@ -1,10 +1,10 @@
-# Calculator
+# Calculator B
 
-Make a simple calculator.
+Make a simple calculator, again!
 
 ### How to complete this exercise
 
-1. Make a new branch with your name. (From the command line, run `git checkout -b my-full-name`)
+1. Use the branch you created in exercise 1. (If you skipped straight here, from the command line, run `git checkout -b my-full-name`)
 2. In this directory, create a Ruby program file called `calculator.rb`.
 3. To complete a requirement, add the code which completes the requirement to this file.
 3. Once you have saved the Ruby program file, commit your changes with git and push to this repo.
@@ -40,7 +40,7 @@ Then
 Once I have started the program, I can write:
 
 ```
-add
+subtract
 ```
 
 And I see:
@@ -58,13 +58,13 @@ And I see:
 Once I have started the program, I can write:
 
 ```
-add(2)
+subtract(2)
 ```
 
 And I see:
 
 ```
-2
+-2
 ```
 
 ##### Useful links
@@ -77,13 +77,13 @@ And I see:
 Once I have started the program, I can write:
 
 ```
-add(2, 3)
+subtract(2, 3)
 ```
 
 And I see:
 
 ```
-5
+1
 ```
 
 ### Adding two numeral or non-numeral numbers
@@ -91,13 +91,13 @@ And I see:
 Once I have started the program, I can write:
 
 ```
-add(TWO, THREE)
+subtract(TWO, THREE)
 ```
 
 And I see: 
 
 ```
-5
+1
 ```
 
 ##### Useful links
@@ -109,7 +109,7 @@ And I see:
 Once I have started the program, I can write:
 
 ```
-add(TWO, 3, 2, THREE)
+subtract(TWO, 3, 2, THREE)
 ```
 
 with any number of parameters.
@@ -117,10 +117,10 @@ with any number of parameters.
 And I see:
 
 ```
-10
+-4
 ```
 
-the sum of all those parameters.
+the sum of all those parameters, subtracted from the last parameter.
 
 ##### Useful links
 
