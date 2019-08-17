@@ -103,25 +103,3 @@ And I see:
 ##### Useful links
 
 - [Ruby Constants]()
-
-### Adding any number of numeral or non-numeral numbers
-
-Once I have started the program, I can write:
-
-```
-subtract(TWO, 3, 2, THREE)
-```
-
-with any number of parameters.
-
-And I see:
-
-```
--4
-```
-
-the sum of all those parameters, subtracted from the last parameter.
-
-##### Useful links
-
-- [Writing a function that takes any number of parameters]()
