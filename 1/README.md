@@ -10,6 +10,10 @@ Make a simple calculator.
 3. Once you have saved the Ruby program file, commit your changes with git and push to this repo.
 4. You will get feedback on your solution via email.
 
+### Testing your progress
+
+At any time, you can run `./test` from the Terminal to run some tests against your code. The tests expect your program to live in the exact directory it is meant to!
+
 ### How to use IRB
 
 This program should run in `irb`. IRB is an interactive Ruby environment. To start IRB, write `irb` in any terminal window.
