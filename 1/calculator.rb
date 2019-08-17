@@ -16,6 +16,6 @@ def add(number=0,number2=0, number3=0,number4=0)
   number + number2 + number3 + number4
 end
 
-def subtract(number=0)
-  - number
+def subtract(number=0,number_main=0)
+  number_main - number
 end
