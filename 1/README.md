@@ -102,4 +102,4 @@ And I see:
 
 ##### Useful links
 
-- [Ruby Constants](https://www.loom.com/share/271203c75ef8402e9632b118da36f85b)
+- [Making programs easier to read with constants](https://www.loom.com/share/271203c75ef8402e9632b118da36f85b)
