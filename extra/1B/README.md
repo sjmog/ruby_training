@@ -30,7 +30,7 @@ Then
 
 `require "./calculator"`
 
-### Adding with nothing
+### Subtracting with nothing gives zero
 
 Once I have started the program, I can write:
 

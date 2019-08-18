@@ -30,7 +30,7 @@ Then
 
 `require "./calculator"`
 
-### Adding with nothing
+### Dividing with nothing gives zero
 
 Once I have started the program, I can write:
 
@@ -44,7 +44,7 @@ And I see:
 0
 ```
 
-### Dividing a numeral number
+### Dividing a solo numeral number gives zero
 
 Once I have started the program, I can write:
 
@@ -58,7 +58,7 @@ And I see:
 0
 ```
 
-### Dividing two numeral numbers
+### Dividing two numeral numbers gives one divided by the other
 
 Once I have started the program, I can write:
 
@@ -72,7 +72,7 @@ And I see:
 2
 ```
 
-### Dividing two numeral or non-numeral numbers
+### Dividing two numeral or non-numeral numbers gives one divided by the other
 
 Once I have started the program, I can write:
 
