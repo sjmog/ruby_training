@@ -20,6 +20,6 @@ def subtract(number=0,number_main=0)
   number_main - number
 end
 
-def multiply(number=0)
-  0
+def multiply(number=0, number2=0)
+  number * number2
 end
