@@ -155,7 +155,3 @@ And I press enter. And I see:
 ```
 Hello, PERSON WITH NO NAME!
 ```
-
-##### Useful links
-
-- [Writing a function that takes any number of parameters]()

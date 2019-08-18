@@ -30,11 +30,6 @@ Then
 
 `require "./calculator"`
 
-##### Useful links
-
-- [What does `require` do?](https://www.loom.com/share/dbd45435ad5c4aa7942f2d6aa35d744b)
-- [Why do error messages have SO MANY LINES!?]()
-
 ### Adding with nothing
 
 Once I have started the program, I can write:
@@ -49,10 +44,6 @@ And I see:
 0
 ```
 
-##### Useful links
-
-- [Writing Ruby functions]()
-
 ### Dividing a numeral number
 
 Once I have started the program, I can write:
@@ -66,11 +57,6 @@ And I see:
 ```
 0
 ```
-
-##### Useful links
-
-- [Writing Ruby functions with parameters]()
-- [Making parameters optional]()
 
 ### Dividing two numeral numbers
 
@@ -99,7 +85,3 @@ And I see:
 ```
 2
 ```
-
-##### Useful links
-
-- [Ruby Constants]()

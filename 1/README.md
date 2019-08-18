@@ -32,8 +32,8 @@ Then
 
 ##### Useful links
 
-- [What does `require` do?](https://www.loom.com/share/dbd45435ad5c4aa7942f2d6aa35d744b)
-- [Why do error messages have SO MANY LINES!?]()
+- [What does `require` do?](https://www.loom.com/share/63c4312a811f4704b88fce0bdcd3bc50)
+- [Why do error messages have SO MANY LINES!?](https://www.loom.com/share/b17b50f37c5f43788e3c91113aba1f5c)
 
 ### Adding with nothing
 
@@ -51,7 +51,7 @@ And I see:
 
 ##### Useful links
 
-- [Writing Ruby functions]()
+- [Writing Ruby functions](https://www.loom.com/share/aef99200116241a481a49e4532dba283)
 
 ### Adding a numeral number
 
@@ -69,8 +69,8 @@ And I see:
 
 ##### Useful links
 
-- [Writing Ruby functions with parameters]()
-- [Making parameters optional]()
+- [Writing Ruby functions with parameters](https://www.loom.com/share/368863e6621442799ea0e823fa9c1b6e)
+- [Making parameters optional](https://www.loom.com/share/a6f719cd4e3748828b2355e33c736bc5)
 
 ### Adding two numeral numbers
 
@@ -102,4 +102,4 @@ And I see:
 
 ##### Useful links
 
-- [Ruby Constants]()
+- [Ruby Constants](https://www.loom.com/share/271203c75ef8402e9632b118da36f85b)
