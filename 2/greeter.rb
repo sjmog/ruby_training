@@ -3,5 +3,8 @@ end
 
 name=gets.chomp
 
-puts 'Hello, ' + name.upcase.reverse + "!" do  
+if name==''
+	return puts 'Hello, PERSON WITH NO NAME!'
+else
+	return puts 'Hello, ' + name.upcase + "!"  
 end
