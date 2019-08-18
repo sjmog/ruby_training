@@ -27,3 +27,7 @@ end
 def divide(number_main=0, number=0)
   number_main / number
 end
+
+def hello
+	1000
+end
