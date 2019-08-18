@@ -3,5 +3,5 @@ end
 
 name=gets.chomp
 
-puts 'Hello, ' + name + "!" do  
+puts 'Hello, ' + name.upcase + "!" do  
 end
