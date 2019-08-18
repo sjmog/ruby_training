@@ -32,7 +32,7 @@ Then
 
 ##### Useful links
 
-- [What does `require` do?]()
+- [What does `require` do?](https://www.loom.com/share/dbd45435ad5c4aa7942f2d6aa35d744b)
 - [Why do error messages have SO MANY LINES!?]()
 
 ### Multiplying with nothing gives zero

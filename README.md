@@ -10,12 +10,12 @@ In practice, this means avoiding [clicking](http://faceofdisapproval.com/) on [t
 
 It's easy to get stuck in a rabbit hole when learning to program, and every article you read leads to every other article – it's overwhelming. For this training, avoid following the rabbit hole. There's zero credit for extra reading. In fact, there's extra credit, the less reading you do – unless you really need it.
 
-### Exercises
+### Exercises
 
 1. [Calculator](./1) will train you in irb, variables, functions, and constants.
 2. [Greeter](./2) will train you in I/O, and String methods.
 
-### Extra practice
+### Extra practice
 
 1. [Calculator B](./extra/1B) will give you practice at the topics covered in [Calculator](./1).
 2. [Calculator C](./extra/1C) will give you practice at the topics covered in [Calculator](./1).
