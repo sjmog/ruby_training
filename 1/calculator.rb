@@ -23,3 +23,7 @@ end
 def multiply(number=0, number2=0)
   number * number2
 end
+
+def divide
+	0
+end
