@@ -19,3 +19,7 @@ end
 def subtract(number=0,number_main=0)
   number_main - number
 end
+
+def multiply(number=0)
+  0
+end
