@@ -24,6 +24,6 @@ def multiply(number=0, number2=0)
   number * number2
 end
 
-def divide(number=0)
-  0
+def divide(number_main=0, number=0)
+  number_main / number
 end
