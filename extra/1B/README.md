@@ -85,3 +85,7 @@ And I see:
 ```
 1
 ```
+
+## Next up
+
+You can [improve your skills in this module](../1C) or you can [go directly to the end-of-module project](../1/END_OF_MODULE.md).

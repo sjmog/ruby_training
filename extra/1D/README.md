@@ -85,3 +85,7 @@ And I see:
 ```
 2
 ```
+
+## Next up
+
+You can [go directly to the end-of-module project](../1/END_OF_MODULE.md).

@@ -103,3 +103,7 @@ And I see:
 ##### Useful links
 
 - [Making programs easier to read with constants](https://www.loom.com/share/271203c75ef8402e9632b118da36f85b)
+
+## Next up
+
+You can [improve your skills in this module](../extra/1B) or you can [go directly to the end-of-module project](./END_OF_MODULE.md).
