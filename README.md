@@ -12,9 +12,10 @@ It's easy to get stuck in a rabbit hole when learning to program, and every arti
 
 ### Exercises
 
-1. [Calculator](./1) will train you in irb, variables, functions, and constants.
+1. [Calculator](./1) will train you in irb, functions, and constants.
 2. [Greeter](./2) will train you in I/O, and String methods.
 3. [Fizzbuzz](./3) will train you in conditional flow of control.
+4. [](./4) will train you in arrays, loops, and variables.
 
 ### Extra practice
 
