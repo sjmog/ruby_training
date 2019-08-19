@@ -70,7 +70,7 @@ Fizz
 
 ##### Useful links
 
-- [How do I make functions do one thing sometimes, and another thing another time?]()
+- [How do I make functions do one thing sometimes, and another thing another time?](https://www.loom.com/share/19ea686cfc244427882688d69f6112ca)
 
 ### Returning "Buzz" on any multiple of 5
 
@@ -151,7 +151,7 @@ Buzz
 
 ##### Useful links
 
-- [How do I tidy up long conditional code?]()
+- [How do I tidy up long conditional code?](https://www.loom.com/share/a23d49a015a646b881ef07047e1365b7)
 
 ## Next up
 
