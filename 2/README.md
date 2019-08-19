@@ -155,3 +155,7 @@ And I press enter. And I see:
 ```
 Hello, PERSON WITH NO NAME!
 ```
+
+## Next up
+
+You can [go directly to the end-of-module project](./END_OF_MODULE.md).
