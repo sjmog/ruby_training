@@ -1,5 +1,7 @@
 # Tax Calculator 3
 
+> You should build on your existing calculator that you completed in the end-of-module exercise for Exercises 1 and 2.
+
 The Government wants to improve the calculator your wrote for what rates to set for income tax, student loans, and national insurance.
 
 The Government has made three requests.

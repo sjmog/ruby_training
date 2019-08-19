@@ -155,4 +155,4 @@ Buzz
 
 ## Next up
 
-You can [improve your skills in this module](../extra/3B) or you can [go directly to the end-of-module project](./END_OF_MODULE.md).
+You can [go directly to the end-of-module project](./END_OF_MODULE.md).

@@ -1,5 +1,7 @@
 # Tax Calculator 2
 
+> You should build on your existing calculator that you completed in the end-of-module exercise for Exercise 1.
+
 The Government wants to improve the calculator your wrote for what rates to set for income tax, student loans, and national insurance.
 
 The Government would like to make this calculator a little more friendly. Since most of the population uses the command-line, they would like to make the program interact with the user a bit, to ask questions and give a custom response depending on the user's answers.
