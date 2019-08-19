@@ -50,9 +50,9 @@ The rates for student loan and national insurance stay the same.
 | `fraction_of_people_who_will_pay(0.1, 0.18, 0.25, 0.4, 0.2, 0.2)`   | The percentage of the population who will pay an income tax base rate set to 10%, a low rate set to 18%, a medium rate set to 25%, and a high rate set to 40%, a student loan rate of 20%, and a national insurance rate of 20%, governed by the formula `1 - (income tax base rate + 0.5 * income tax low rate + 0.3 * income tax medium rate + 0.1 * income tax high rate + student loan + national insurance)`  |
 | `government_revenue(50000, 0.1, 0.18, 0.25, 0.4, 0.2, 0.2, 1000000)`   | The total tax revenue for 1 million people with a salary of 50,000 at an income tax base rate set to 10%, a low rate set to 18%, a medium rate set to 25%, and a high rate set to 40%, a student loan rate of 20%, and a national insurance rate of 20%, factoring in the fraction of people who will pay  |
 
-#### Request 3: Admin interface
+#### Request 3: Admin interface
 
-The government would like to change how the program works by introducing a new type of user: an admin.
+The government would like to change how the program works by introducing a new type of user: an administrator.
 
 When the program starts, the user should be presented with an option that says `"Greetings, citizen or administrator. Which one are you? Please type citizen or administrator."`
 
