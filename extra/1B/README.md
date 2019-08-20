@@ -30,12 +30,7 @@ Then
 
 `require "./calculator"`
 
-##### Useful links
-
-- [What does `require` do?](https://www.loom.com/share/dbd45435ad5c4aa7942f2d6aa35d744b)
-- [Why do error messages have SO MANY LINES!?]()
-
-### Adding with nothing
+### Subtracting with nothing gives zero
 
 Once I have started the program, I can write:
 
@@ -48,10 +43,6 @@ And I see:
 ```
 0
 ```
-
-##### Useful links
-
-- [Writing Ruby functions]()
 
 ### Subtracting a single numeral number takes it from zero
 
@@ -66,11 +57,6 @@ And I see:
 ```
 -2
 ```
-
-##### Useful links
-
-- [Writing Ruby functions with parameters]()
-- [Making parameters optional]()
 
 ### Subtracting two numeral numbers takes the first from the second
 
@@ -100,6 +86,6 @@ And I see:
 1
 ```
 
-##### Useful links
+## Next up
 
-- [Ruby Constants]()
+You can [improve your skills in this module](../1C) or you can [go directly to the end-of-module project](../1/END_OF_MODULE.md).

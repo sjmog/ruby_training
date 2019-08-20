@@ -30,12 +30,7 @@ Then
 
 `require "./calculator"`
 
-##### Useful links
-
-- [What does `require` do?](https://www.loom.com/share/dbd45435ad5c4aa7942f2d6aa35d744b)
-- [Why do error messages have SO MANY LINES!?]()
-
-### Adding with nothing
+### Dividing with nothing gives zero
 
 Once I have started the program, I can write:
 
@@ -49,11 +44,7 @@ And I see:
 0
 ```
 
-##### Useful links
-
-- [Writing Ruby functions]()
-
-### Dividing a numeral number
+### Dividing a solo numeral number gives zero
 
 Once I have started the program, I can write:
 
@@ -67,12 +58,7 @@ And I see:
 0
 ```
 
-##### Useful links
-
-- [Writing Ruby functions with parameters]()
-- [Making parameters optional]()
-
-### Dividing two numeral numbers
+### Dividing two numeral numbers gives one divided by the other
 
 Once I have started the program, I can write:
 
@@ -86,7 +72,7 @@ And I see:
 2
 ```
 
-### Dividing two numeral or non-numeral numbers
+### Dividing two numeral or non-numeral numbers gives one divided by the other
 
 Once I have started the program, I can write:
 
@@ -100,6 +86,6 @@ And I see:
 2
 ```
 
-##### Useful links
+## Next up
 
-- [Ruby Constants]()
+You can [go directly to the end-of-module project](../1/END_OF_MODULE.md).

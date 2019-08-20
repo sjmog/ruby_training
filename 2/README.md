@@ -156,6 +156,6 @@ And I press enter. And I see:
 Hello, PERSON WITH NO NAME!
 ```
 
-##### Useful links
+## Next up
 
-- [Writing a function that takes any number of parameters]()
+You can [go directly to the end-of-module project](./END_OF_MODULE.md).
