@@ -39,15 +39,51 @@ When I run the program, I see:
 2
 ```
 
-### Returning the first "Fizz"
+### Returning any length of numbers
 
 When I run the program, I see:
+
+```
+What should the start number be?
+```
+
+And I enter `1` and press enter, I see:
+
+```
+What should the end number be?
+```
+
+And I enter `10` and press enter, I see:
+
+```
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+```
+
+##### Useful links
+
+- [How do I generate lists of numbers based on a range?]()
+
+### Returning the first "Fizz"
+
+When I run the program with a start number of `1` and an end number of `3`, I see:
 
 ```
 1
 2
 Fizz
 ```
+
+- [How do I loop over a list of numbers?]()
+- [How do I make functions do one thing sometimes, and another thing another time?](https://www.loom.com/share/19ea686cfc244427882688d69f6112ca)
 
 ### Returning "Fizz" on any multiple of 3
 
@@ -66,11 +102,7 @@ Fizz
 10
 ```
 
-> Extra constraint: the function must be no more than five lines long.
-
-##### Useful links
-
-- [How do I make functions do one thing sometimes, and another thing another time?](https://www.loom.com/share/19ea686cfc244427882688d69f6112ca)
+> Extra constraint: the function must be no more than seven lines long.
 
 ### Returning "Buzz" on any multiple of 5
 
@@ -89,7 +121,7 @@ Fizz
 Buzz
 ```
 
-> Extra constraint: the function must be no more than seven lines long.
+> Extra constraint: the function must be no more than nine lines long.
 
 ### Returning "FizzBuzz" on any multiple of 3 and 5
 
@@ -118,7 +150,7 @@ Fizz
 Buzz
 ```
 
-> Extra constraint: the function must be no more than nine lines long.
+> Extra constraint: the function must be no more than eleven lines long.
 
 ### Controlling the flow with early returns
 
@@ -147,7 +179,7 @@ Fizz
 Buzz
 ```
 
-> Extra constraint: the function must be no more than three lines long.
+> Extra constraint: the function must be no more than five lines long.
 
 ##### Useful links
 
