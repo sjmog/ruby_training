@@ -70,7 +70,7 @@ And I enter `10` and press enter, I see:
 
 ##### Useful links
 
-- [How do I generate lists of numbers based on a range?]()
+- [How do I generate lists of numbers based on a range?](https://www.loom.com/share/d0f7e3a8ace84abe9d578b4b44785687)
 
 ### Returning the first "Fizz"
 
