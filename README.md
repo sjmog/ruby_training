@@ -10,12 +10,21 @@ In practice, this means avoiding [clicking](http://faceofdisapproval.com/) on [t
 
 It's easy to get stuck in a rabbit hole when learning to program, and every article you read leads to every other article – it's overwhelming. For this training, avoid following the rabbit hole. There's zero credit for extra reading. In fact, there's extra credit, the less reading you do – unless you really need it.
 
+### Prerequisites
+
+To start this training, you will need to know:
+
+1. How to navigate the command-line using the following command-line commands: `cd`, `ls`, `touch`, `rm`, and `mv`.
+2. How to use basic git using the following command-line commands: `git clone`, `git pull`, `git push`, and `git branch`.
+
 ### Exercises
 
 1. [Calculator](./1) will train you in irb, functions, and constants.
 2. [Greeter](./2) will train you in I/O, and String methods.
 3. [Fizzbuzz](./3) will train you in conditional flow of control.
-4. [](./4) will train you in arrays, loops, and variables.
+4. [Todo](./4) will train you in arrays, variables, and the `Time` and `File` classes.
+5. [](./5) will train you in loops.
+6. [](./6) will train you in hashes and collection methods.
 
 ### Extra practice
 
