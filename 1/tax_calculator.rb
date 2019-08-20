@@ -23,7 +23,7 @@ def take_home_pay(income=0,inc_tax_rate=0.1,stu_loan_rate=0.05,nat_ins_rate=0.05
 end
 
 def government_revenue_per_head(income=0, inc_tax_rate=0.1,stu_loan_rate=0.05,nat_ins_rate=0.05)
-  income - take_home_pay(income,inc_tax_rate,stu_loan_rate,nat_ins_rate)
+  income - take_home_pay(income,inc_tax_rate,stu_loan_rate,nat_ins_rate)s
 end
 
 def fraction_of_people_who_will_pay(inc_tax_rate=0.1,stu_loan_rate=0.05,nat_ins_rate=0.05)
@@ -33,6 +33,3 @@ end
 def government_revenue(av_income=0, inc_tax_rate=0.1, stu_loan_rate=0.05, nat_ins_rate=0.05,pop_size=1000000)
   (pop_size*fraction_of_people_who_will_pay(inc_tax_rate,stu_loan_rate,nat_ins_rate)*government_revenue_per_head(av_income,inc_tax_rate,stu_loan_rate,nat_ins_rate)).round(0)
 end
-
-
-
