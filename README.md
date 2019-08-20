@@ -21,7 +21,7 @@ To start this training, you will need to know:
 
 1. [Calculator](./1) will train you in irb, functions, and constants.
 2. [Greeter](./2) will train you in I/O, and String methods.
-3. [Fizzbuzz](./3) will train you in conditional flow of control, ranges, and arrays.
+3. [Fizzbuzz](./3) will train you in conditional flow of control, ranges, and arrays, and iterations.
 4. [Todo](./4) will train you in arrays, variables, and the `Time` and `File` classes.
 5. [](./5) will train you in loops.
 6. [](./6) will train you in hashes and collection methods.

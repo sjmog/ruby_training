@@ -50,7 +50,7 @@ What would you like to do? Type "add" to add a todo. Type "done" to complete a t
 
 ##### Useful links
 
-- [How do I store numbered collections of items?]()
+- [How do I add items to a collection?]()
 
 ### I can complete a todo
 
