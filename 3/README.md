@@ -5,7 +5,7 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 ### How to complete this exercise
 
 1. Use the branch you created in exercise 1. (If you skipped straight here, from the command line, run `git checkout -b my-full-name`)
-2. In this directory, create a Ruby program file called `greeter.rb`.
+2. In this directory, create a Ruby program file called `fizzbuzz.rb`.
 3. To complete a requirement, add the code which completes the requirement to this file.
 3. Once you have saved the Ruby program file, commit your changes with git and push to this repo.
 4. You will get feedback on your solution via email.
