@@ -82,7 +82,7 @@ When I run the program with a start number of `1` and an end number of `3`, I se
 Fizz
 ```
 
-- [How do I loop over lists, doing one thing with each element?](https://www.loom.com/share/1cc11ae941d0434cb14d11080519f360)
+- [How do I loop over lists, doing one thing with each element?](https://www.loom.com/share/5e28c45c825b4d94a3a22dc0a7fb4de3)
 - [How do I make functions do one thing sometimes, and another thing another time?](https://www.loom.com/share/19ea686cfc244427882688d69f6112ca)
 
 ### Returning "Fizz" on any multiple of 3
