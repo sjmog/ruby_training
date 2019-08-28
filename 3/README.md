@@ -104,6 +104,9 @@ Fizz
 
 > Extra constraint: the function must be no more than seven lines long.
 
+- [How does Ruby know if a number divides into another number?]() :construction:
+- [How should I organise my program file?]() :construction:
+
 ### Returning "Buzz" on any multiple of 5
 
 When I run the program, I see:
@@ -151,6 +154,8 @@ Buzz
 ```
 
 > Extra constraint: the function must be no more than eleven lines long.
+
+- [How do I write more complicated conditionals?]() :construction:
 
 ### Controlling the flow with early returns
 
