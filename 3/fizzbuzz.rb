@@ -14,7 +14,7 @@ FizzBuzz.each do |num|
 		puts 'FizzBuzz'
 	elsif num%3 == 0 
 		puts 'Fizz'
-	elsif num%5 ==0
+	elsif num%5 == 0
 		puts 'Buzz'
 	else
 		puts num
